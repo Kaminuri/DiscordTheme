@@ -1232,7 +1232,7 @@ textarea,
   font-weight: 700;
   transition: all 0.5s ease-in-out;
 }
-.container-3baos1:before {
+/*.container-3baos1:before {
   content: "ClearVision";
   right: 50%;
   text-align: right;
@@ -1244,7 +1244,7 @@ textarea,
   text-align: left;
   opacity: 0;
   transform: translateX(50%) rotateX(90deg);
-}
+}*/
 .container-3baos1:hover:before {
   margin-right: 1px;
   transform: none;
